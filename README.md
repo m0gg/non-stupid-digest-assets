@@ -1,6 +1,16 @@
 Non-stupid non-digest assets in Rails 4
 =======================================
 
+!!Attention!!
+-------------
+
+This is a fork of [alexspeller/non-stupid-digest-assets](https://github.com/alexspeller/non-stupid-digest-assets)
+
+It's a variant that deletes the digest-files and rewrites the manifest to use the non-digest-files.
+
+It was created to provide non-digest dart-files support for [m0gg/dart-rails](https://github.com/m0gg/dart-rails)
+
+
 What is it?
 -----------
 
